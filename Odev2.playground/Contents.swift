@@ -1,4 +1,5 @@
 import UIKit
+// import SwiftUI
 
 class Functions {
     // Odev 1
@@ -99,3 +100,4 @@ print(result6)
 // Odev 7
 var result7 = f.charge(quota: 55)
 print(result7)
+
